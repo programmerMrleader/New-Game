@@ -1,0 +1,9 @@
+﻿  functions.cpp
+C:\Users\WaiYean\source\repos\New Game\New Game\functions.cpp(65,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\WaiYean\source\repos\New Game\New Game\functions.cpp(66,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\WaiYean\source\repos\New Game\New Game\functions.cpp(106,12): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\WaiYean\source\repos\New Game\New Game\functions.cpp(117,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\WaiYean\source\repos\New Game\New Game\main.cpp(12,21): warning C4101: 'rd': unreferenced local variable
+  Generating Code...
+  New Game.vcxproj -> C:\Users\WaiYean\source\repos\New Game\x64\Debug\New Game.exe
